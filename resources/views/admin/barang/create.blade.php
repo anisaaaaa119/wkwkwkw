@@ -25,8 +25,8 @@
             </div>
 
             <div class="mb-4">
-                <label for="kondisi" class="block">Keterangan</label>
-                <select name="kondisi" class="w-full border p-2" required>
+                <label for="keterangan" class="block">Keterangan</label>
+                <select name="keterangan" class="w-full border p-2" required>
                     <option value="masih ada">Masih ada</option>
                     <option value="kosong">Kosong</option>
                 </select>
