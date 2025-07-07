@@ -21,12 +21,12 @@
         </div>
 
     </div>
-
-    <!-- 🔘 Tombol ke Daftar Barang -->
-    <div class="mt-8 text-center">
-        <a href="{{ route('admin.barang.index') }}"
-           class="inline-block bg-blue-600 text-white px-6 py-2 rounded shadow hover:bg-blue-700 transition">
-            ➕ Lihat Daftar Barang
-        </a>
+<!-- 🔘 Tombol ke Daftar Barang -->
+<div class="mt-8 text-center">
+    <a href="{{ route('admin.barang.index') }}"
+       class="inline-block bg-blue-400 text-white px-6 py-2 rounded shadow hover:bg-blue-500 transition duration-200">
+        ➕ Lihat Daftar Barang
+    </a>
+</div>
     </div>
 </x-app-layout>

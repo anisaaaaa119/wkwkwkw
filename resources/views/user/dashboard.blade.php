@@ -1,3 +1,3 @@
 <x-app-layout>
-    <h1>Halo User!</h1>
+    <h1>Halo, ini halaman User!</h1>
 </x-app-layout>

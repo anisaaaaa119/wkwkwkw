@@ -7,7 +7,7 @@
         <!-- 🔘 Tombol Home ke Dashboard -->
         <div class="flex justify-between mb-4">
             <a href="{{ route('admin.dashboard') }}"
-                class="inline-flex items-center gap-2 bg-gray-600 text-white font-semibold px-4 py-2 rounded-md shadow-md hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2 transition-all">
+                class="inline-flex items-center gap-2 bg-green-600 text-white font-semibold px-4 py-2 rounded-md shadow-md hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2 transition-all">
                 <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24"
                     stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
