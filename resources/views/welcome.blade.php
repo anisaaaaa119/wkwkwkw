@@ -113,16 +113,6 @@
                             </a>
                         </div>
                     </div>
-                    <div class="md:w-1/2 relative">
-                        <div class="flex flex-row md:flex-row justify-center items-center space-y-6 md:space-y-0 md:space-x-4">
-                            <!-- Heroine Image (Left) -->
-                            <div class="relative z-10 flex justify-center">
-                                <img src="/assets/img/heroine[1].png" alt="Heroine Image" class="w-3/4 md:w-full max-h-56 md:max-h-60 object-contain floating">
-                            </div>
-                            <!-- Hero Image (Right) -->
-                            <div class="relative z-10 flex justify-center">
-                                <img src="/assets/img/hero[1].png" alt="Hero Image" class="w-3/4 md:w-full max-h-56 md:max-h-60 object-contain floating">
-                            </div>
                         </div>
                         <div class="absolute top-0 right-0 -mt-10 -mr-10 w-40 h-40 bg-gray-800 rounded-full opacity-5"></div>
                         <div class="absolute bottom-0 left-0 -mb-10 -ml-10 w-24 h-24 bg-gray-800 rounded-full opacity-5"></div>
@@ -175,7 +165,7 @@
         <section class="py-16 bg-gray-800 text-white">
             <div class="container mx-auto px-4 text-center">
                 <h2 class="text-3xl md:text-4xl font-bold mb-6">Siap Untuk Memulai?</h2>
-                <p class="text-gray-300 mb-8 max-w-2xl mx-auto">Bergabunglah dengan ratusan sekolah yang telah menggunakan platform kami untuk mengelola inventaris mereka dengan efisien.</p>
+                <p class="text-gray-300 mb-8 max-w-2xl mx-auto">Bergabunglah dengan ratusan perusahaan yang telah menggunakan platform kami untuk mengelola inventaris mereka dengan efisien.</p>
                 <div class="flex flex-col sm:flex-row justify-center sm:space-x-4 space-y-4 sm:space-y-0">
                     <a href="{{url('register')}}" class="bg-white text-gray-800 py-3 px-8 rounded-full font-bold hover:bg-gray-100 transition duration-300 shadow-lg btn-shine">
                         <i class="fas fa-rocket mr-2"></i> Mulai Sekarang
@@ -215,8 +205,9 @@
                 </div>
                 <div>
                     <h3 class="text-white font-bold text-lg mb-4">Kontak</h3>
-                    <p class="text-gray-400 mb-2"><i class="fas fa-map-marker-alt mr-2"></i> Jl. Pendidikan No. 123, Jakarta</p>
-                    <p class="text-gray-400 mb-2"><i class="fas fa-phone mr-2"></i> (021) 1234-5678</p>
+                    <p class="text-gray-400 mb-2"><i class="fas fa-map-marker-alt mr-2"></i> D'Esta Square No. 10, Jl. Pakuan No.02, RT.01/RW.11, Baranangsiang, Bogor Timur,
+                         Bogor City, West Java 16143</p>
+                    <p class="text-gray-400 mb-2"><i class="fas fa-phone mr-2"></i> (0251) 7561016 </p>
                     <p class="text-gray-400"><i class="fas fa-envelope mr-2"></i> info@inventarisbarang.id</p>
                 </div>
             </div>

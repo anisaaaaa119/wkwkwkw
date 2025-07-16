@@ -49,3 +49,7 @@ Route::middleware(['auth', RoleMiddleware::class . ':user'])
 
 // 📎 Tambahan: route auth login/register/logout dari Breeze
 require __DIR__.'/auth.php';
+
+Route::get('/', function () {
+    return view('welcome');
+});
